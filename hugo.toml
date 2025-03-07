@@ -1,0 +1,27 @@
+baseURL = 'https://example.org/'
+languageCode = 'pt-br'
+title = 'SAPINHAS resume'
+theme = "hugo-news"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[[menus.main]]
+#name = "Principal"
+#url = "/"
+#weight = 10
+
+#[[menus.main]]
+#name = "Categorias"
+#url = "/categories"
+#weight = 20
+
+#[[menus.main]]
+#name = "Tags"
+#url = "/tags"
+#weight = 30
