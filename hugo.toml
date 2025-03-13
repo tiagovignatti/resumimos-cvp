@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'pt-br'
-title = 'SAPINHAS resume'
+title = 'Nós Resumimos: CVP'
 theme = "hugo-news"
 
 [taxonomies]

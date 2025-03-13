@@ -5,7 +5,7 @@
     
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SAPINHAS resume</title>
+    <title>Nós Resumimos: CVP</title>
     
     
     <meta name="description" content="Breaking news and in-depth analysis on current events, politics, and social issues">
@@ -14,14 +14,14 @@
     
     
     <meta property="og:type" content="website">
-    <meta property="og:title" content="SAPINHAS resume">
+    <meta property="og:title" content="Nós Resumimos: CVP">
     <meta property="og:description" content="Breaking news and in-depth analysis on current events, politics, and social issues">
     <meta property="og:url" content="http://localhost:1313/">
     
     
     
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="SAPINHAS resume">
+    <meta name="twitter:title" content="Nós Resumimos: CVP">
     <meta name="twitter:description" content="Breaking news and in-depth analysis on current events, politics, and social issues">
     
     
@@ -38,16 +38,16 @@
     <header class="bg-white shadow-md">
         <nav class="container mx-auto px-6 py-3">
             <div class="flex justify-between items-center">
-                <a href="/" class="text-2xl font-bold text-gray-800">SAPINHAS resume</a>
+                <a href="/" class="text-2xl font-bold text-gray-800">Nós Resumimos: CVP</a>
                 <div class="flex space-x-4">
                     
                     <a href="" class="text-gray-700 hover:text-gray-900"></a>
                     
                     <div x-data="{ open: false }" class="relative">
-                        <button @click="open = !open" class="text-gray-700 hover:text-gray-900">Search</button>
+                        <button @click="open = !open" class="text-gray-700 hover:text-gray-900">Buscar</button>
                         <div x-show="open" @click.away="open = false" class="absolute right-0 mt-2 w-64 bg-white rounded-md shadow-lg">
                             <form action="/search" method="get" class="p-4">
-                                <input type="text" name="q" placeholder="Search..." class="w-full px-3 py-2 border rounded-md">
+                                <input type="text" name="q" placeholder="Buscar..." class="w-full px-3 py-2 border rounded-md">
                             </form>
                         </div>
                     </div>
@@ -83,7 +83,7 @@
                     <a href="/articles/climate-justice-now/" class="text-gray-900 hover:text-blue-600">Direct Action Halts Fossil Fuel Pipeline as Indigenous Leaders Demand Climate Justice</a>
                 </h2>
                 <div class="flex items-center text-sm text-gray-600 mb-4">
-                    <span class="mr-4">By <a href="/authors/luna-rainbow" class="text-blue-600 hover:text-blue-800">Luna Rainbow</a></span>
+                    <span class="mr-4">By <a href="/authors/sapinhas" class="text-blue-600 hover:text-blue-800">Sapinhas</a></span>
                     <span>January 11, 2024</span>
                 </div>
                 <p class="text-gray-700 mb-4"><p>In a powerful display of intersectional resistance, over 200 water protectors and climate justice activists successfully blocked construction of the Colonial Pipeline Corporation&rsquo;s latest …</p></p>
@@ -95,7 +95,7 @@
 
     
     <div class="mb-12">
-        <h2 class="text-3xl font-bold mb-8">Recent Articles</h2>
+        <h2 class="text-3xl font-bold mb-8">Artigos Recentes</h2>
         <div class="grid gap-8 md:grid-cols-3">
             
             <article class="bg-white rounded-lg shadow-md overflow-hidden">
@@ -114,7 +114,7 @@
                         <a href="/articles/globalist-agenda-exposed/" class="text-gray-900 hover:text-blue-600">EXPOSED: Global Elites Push Digital Currency to Control American Freedom</a>
                     </h3>
                     <div class="flex items-center text-sm text-gray-600 mb-3">
-                        <span class="mr-4">By <a href="/authors/buck-patriot" class="text-blue-600 hover:text-blue-800">Buck Patriot</a></span>
+                        <span class="mr-4">By <a href="/authors/sapinhas" class="text-blue-600 hover:text-blue-800">Sapinhas</a></span>
                         <span>Jan 11</span>
                     </div>
                     <p class="text-gray-700 text-sm mb-4"><p>In a shocking development that the mainstream media won&rsquo;t tell you about, global banking elites are accelerating …</p></p>
@@ -126,7 +126,7 @@
 
     
     <div class="mb-12">
-        <h2 class="text-3xl font-bold mb-6">Browse by Category</h2>
+        <h2 class="text-3xl font-bold mb-6">Buscar por Categoria</h2>
         <div id="categories-container" class="grid gap-4 md:grid-cols-4 grid-rows-2">
             
             <a href="/categories/climate-justice" class="category-item bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow hidden">
@@ -162,11 +162,11 @@
         </div>
         <div class="flex justify-center items-center gap-4 mt-6">
             <button id="prev-categories" class="px-4 py-2 bg-gray-200 rounded-md hover:bg-gray-300 disabled:opacity-50 disabled:cursor-not-allowed">
-                ← Previous
+                ← Anterior
             </button>
             <span id="category-page-info" class="text-gray-600"></span>
             <button id="next-categories" class="px-4 py-2 bg-gray-200 rounded-md hover:bg-gray-300 disabled:opacity-50 disabled:cursor-not-allowed">
-                Next →
+                Próximo →
             </button>
         </div>
     </div>
@@ -195,7 +195,7 @@
 
                 prevButton.disabled = currentPage === 1;
                 nextButton.disabled = currentPage === totalPages;
-                pageInfo.textContent = `Page ${currentPage} of ${totalPages}`;
+                pageInfo.textContent = `Página ${currentPage} de ${totalPages}`;
             }
 
             prevButton.addEventListener('click', () => {
@@ -219,7 +219,7 @@
 
     
     <div class="mb-12">
-        <h2 class="text-3xl font-bold mb-6">Our Authors</h2>
+        <h2 class="text-3xl font-bold mb-6">Autores</h2>
         <div class="grid gap-6 md:grid-cols-3">
             
             
@@ -235,7 +235,7 @@
                 
                     
                     <div class="aspect-w-16 aspect-h-9">
-                        <img src="/authors/luna-rainbow/luna.png" alt="Luna Rainbow" class="w-full h-48 object-cover">
+                        <img src="/authors/sapinhas/sapinhas.png" alt="Sapinhas" class="w-full h-48 object-cover">
                     </div>
                     
                 
@@ -243,44 +243,7 @@
                     <div class="flex items-center justify-between mb-4">
                         <div>
                             <h3 class="text-xl font-semibold">
-                                <a href="/authors/luna-rainbow" class="text-blue-600 hover:text-blue-800">Luna Rainbow</a>
-                            </h3>
-                            
-                                
-                                <p class="text-gray-600 text-sm">Social Justice and Climate Correspondent</p>
-                                
-                            
-                        </div>
-                        <span class="text-gray-600">1 article</span>
-                    </div>
-                    <div class="mb-4">
-                        <h4 class="text-sm font-medium text-gray-600 mb-2">Recent Articles:</h4>
-                        <ul class="text-sm space-y-1">
-                            
-                            <li><a href="/articles/climate-justice-now/" class="text-blue-600 hover:text-blue-800">Direct Action Halts Fossil Fuel Pipeline as Indigenous Leaders Demand Climate Justice</a></li>
-                            
-                        </ul>
-                    </div>
-                    <a href="/authors/luna-rainbow" class="text-blue-600 hover:text-blue-800 text-sm font-medium">View full profile →</a>
-                </div>
-            </div>
-            
-            
-            
-            
-            <div class="bg-white rounded-lg shadow-md overflow-hidden">
-                
-                    
-                    <div class="aspect-w-16 aspect-h-9">
-                        <img src="/authors/buck-patriot/buck.png" alt="Buck Patriot" class="w-full h-48 object-cover">
-                    </div>
-                    
-                
-                <div class="p-6">
-                    <div class="flex items-center justify-between mb-4">
-                        <div>
-                            <h3 class="text-xl font-semibold">
-                                <a href="/authors/buck-patriot" class="text-blue-600 hover:text-blue-800">Buck Patriot</a>
+                                <a href="/authors/sapinhas" class="text-blue-600 hover:text-blue-800">Sapinhas</a>
                             </h3>
                             
                                 
@@ -288,17 +251,19 @@
                                 
                             
                         </div>
-                        <span class="text-gray-600">1 article</span>
+                        <span class="text-gray-600">2 articles</span>
                     </div>
                     <div class="mb-4">
-                        <h4 class="text-sm font-medium text-gray-600 mb-2">Recent Articles:</h4>
+                        <h4 class="text-sm font-medium text-gray-600 mb-2">Artigos Recentes:</h4>
                         <ul class="text-sm space-y-1">
+                            
+                            <li><a href="/articles/climate-justice-now/" class="text-blue-600 hover:text-blue-800">Direct Action Halts Fossil Fuel Pipeline as Indigenous Leaders Demand Climate Justice</a></li>
                             
                             <li><a href="/articles/globalist-agenda-exposed/" class="text-blue-600 hover:text-blue-800">EXPOSED: Global Elites Push Digital Currency to Control American Freedom</a></li>
                             
                         </ul>
                     </div>
-                    <a href="/authors/buck-patriot" class="text-blue-600 hover:text-blue-800 text-sm font-medium">View full profile →</a>
+                    <a href="/authors/sapinhas" class="text-blue-600 hover:text-blue-800 text-sm font-medium">View full profile →</a>
                 </div>
             </div>
             
@@ -308,7 +273,7 @@
     
     <div class="text-center">
         <a href="/articles" class="inline-block bg-gray-800 text-white px-8 py-3 rounded-md hover:bg-gray-700">
-            View All Articles
+            Vizualizar Todos Artigos
         </a>
     </div>
 </div>
@@ -317,7 +282,7 @@
 
     <footer class="bg-gray-800 text-white">
         <div class="container mx-auto px-6 py-4">
-            <p class="text-center">&copy; 2025 SAPINHAS resume. All rights reserved.</p>
+            <p class="text-center">&copy; 2025 Nós Resumimos: CVP. All rights reserved.</p>
         </div>
     </footer>
 </body>

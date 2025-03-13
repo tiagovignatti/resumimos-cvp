@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="search-container">
-    <input type="text" id="search-input" placeholder="Search posts..." class="search-input">
+    <input type="text" id="search-input" placeholder="Buscar posts..." class="search-input">
     <div id="search-results" class="search-results"></div>
 </div>
 
@@ -72,7 +72,7 @@ fetch('/index.json')
                 }
             }).join('');
             
-            searchResults.innerHTML = html || '<p>No results found</p>';
+            searchResults.innerHTML = html || '<p>Resultados não encontrado</p>';
         }
     });
 </script>
