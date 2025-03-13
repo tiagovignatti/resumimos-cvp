@@ -1,7 +1,7 @@
 ---
-title: "Sapinhas"
+title: "Tiago"
 role: "Culture and Liberty Correspondent"
-bio: "Sapinhas is a fearless defender of traditional American values and constitutional freedoms. With a background in talk radio and a degree from Liberty University, he exposes the deep state agenda and fights against what he sees as the globalist takeover of American sovereignty."
+bio: "Tiago is a fearless defender of traditional American values and constitutional freedoms. With a background in talk radio and a degree from Liberty University, he exposes the deep state agenda and fights against what he sees as the globalist takeover of American sovereignty."
 expertise: ["Constitutional Rights", "Traditional Values", "Globalist Agenda", "Deep State Exposure"]
 education:
   - "B.A. in Political Science, Liberty University"
@@ -9,11 +9,11 @@ education:
 social:
   twitter: "buckpatriot1776"
   truth_social: "@realBuckPatriot"
-featured_image: "sapinhas.png"
+featured_image: "tiago.png"
 
 ---
 
-Sapinhas stands as an unwavering voice against what he terms the "radical leftist agenda" destroying traditional American values. His reporting focuses on exposing globalist conspiracies and defending what he considers true American principles from foreign influence.
+Tiago stands as an unwavering voice against what he terms the "radical leftist agenda" destroying traditional American values. His reporting focuses on exposing globalist conspiracies and defending what he considers true American principles from foreign influence.
 
 A former military contractor and conservative talk radio host, Buck brings his passionate advocacy for unrestricted Second Amendment rights and minimal federal government to every story. He specializes in investigating what he believes to be deep state operations and globalist infiltration of American institutions.
 
