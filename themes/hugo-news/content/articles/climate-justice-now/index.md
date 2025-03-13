@@ -1,7 +1,7 @@
 ---
 title: "Direct Action Halts Fossil Fuel Pipeline as Indigenous Leaders Demand Climate Justice"
 date: 2024-01-11T16:00:00-05:00
-draft: false
+draft: true
 author: "Tiago"
 categories: ["Climate Justice", "Direct Action", "Indigenous Rights"]
 tags: ["climate crisis", "resistance", "decolonial struggle"]
