@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categorias on Nós Resumimos: CVP</title>
+    <link>https://example.org/categories/</link>
+    <description>Recent content in Categorias on Nós Resumimos: CVP</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 24 Feb 2025 16:00:00 -0500</lastBuildDate>
+    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lei Complementar</title>
+      <link>https://example.org/categories/lei-complementar/</link>
+      <pubDate>Mon, 24 Feb 2025 16:00:00 -0500</pubDate>
+      <guid>https://example.org/categories/lei-complementar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Outorga Onerosa</title>
+      <link>https://example.org/categories/outorga-onerosa/</link>
+      <pubDate>Mon, 24 Feb 2025 16:00:00 -0500</pubDate>
+      <guid>https://example.org/categories/outorga-onerosa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Transparência</title>
+      <link>https://example.org/categories/transpar%C3%AAncia/</link>
+      <pubDate>Mon, 24 Feb 2025 16:00:00 -0500</pubDate>
+      <guid>https://example.org/categories/transpar%C3%AAncia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Constitutional Rights</title>
+      <link>https://example.org/categories/constitutional-rights/</link>
+      <pubDate>Thu, 11 Jan 2024 16:00:00 -0500</pubDate>
+      <guid>https://example.org/categories/constitutional-rights/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep State</title>
+      <link>https://example.org/categories/deep-state/</link>
+      <pubDate>Thu, 11 Jan 2024 16:00:00 -0500</pubDate>
+      <guid>https://example.org/categories/deep-state/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Freedom Alert</title>
+      <link>https://example.org/categories/freedom-alert/</link>
+      <pubDate>Thu, 11 Jan 2024 16:00:00 -0500</pubDate>
+      <guid>https://example.org/categories/freedom-alert/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
